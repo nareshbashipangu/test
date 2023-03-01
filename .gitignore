@@ -1,4 +1,4 @@
 .doc
 .docx
-.py
-.php
+*.py
+*.php
