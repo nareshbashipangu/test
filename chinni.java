@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 CHINNI
+=======
+chinni
+>>>>>>> naresh
